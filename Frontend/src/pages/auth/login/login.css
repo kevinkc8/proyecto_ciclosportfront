@@ -1,0 +1,39 @@
+#login-container {
+  margin-top: 10%;
+  margin-bottom: 64px;
+}
+
+#login-container h2,
+#login-container button,
+#login-container form {
+  width: 100%;
+}
+
+#login-container button {
+  margin-top: 15px;
+}
+
+#login-container .form-label {
+  float: left;
+}
+
+#register {
+  color: rgb(33, 65, 95);
+}
+
+#boton {
+  background-color: rgb(33, 65, 95);
+}
+.logo1 {
+  height: 120px;
+  width: 13%;
+  padding-right: 10px;
+  margin-left: 495px;
+  margin-bottom: 20px;
+  margin-top: -75px;
+  /* los siguientes valores son independientes del tamaño del círculo */
+  background-repeat: no-repeat;
+  background-position: 50%;
+  border-radius: 20%;
+  background-size: 50% auto;
+}
